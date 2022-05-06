@@ -1,0 +1,3 @@
+/Users/gilee/CLionProjects/cgi_execve/cmake-build-debug/CMakeFiles/cgi_execve.dir
+/Users/gilee/CLionProjects/cgi_execve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gilee/CLionProjects/cgi_execve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
